@@ -16,7 +16,7 @@
 # Diagrama de Flujo
 ![image](https://github.com/joseluisgm1228/repaso.github.io/assets/132966812/d9775464-d680-4281-914e-ee9b0b2901e5)
 
-# Seudocodigo
+# SeudoCódigo
 
     Algoritmo Salarios
 	  Escribir "Digite cantidad de empleados"
