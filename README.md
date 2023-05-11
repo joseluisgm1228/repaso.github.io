@@ -9,3 +9,7 @@
 
 # Historia de Usuario
 ![imagen](https://github.com/joseluisgm1228/repaso.github.io/assets/132966812/662c1a5f-36d1-4f22-ac35-ecba7e73cb09)
+
+# Caso de uso
+![imagen](https://github.com/joseluisgm1228/repaso.github.io/assets/132966812/83f3ecfd-1e9a-4770-a168-198900403b5c)
+
