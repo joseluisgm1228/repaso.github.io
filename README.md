@@ -6,3 +6,4 @@
 - La aplicación solo requiera calcular el promedio de salarios 
 - No se requiere almacenar datos
 - No requiere ningun tipo de controles
+![imagen](https://github.com/joseluisgm1228/repaso.github.io/assets/132966812/662c1a5f-36d1-4f22-ac35-ecba7e73cb09)
